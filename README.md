@@ -47,7 +47,6 @@ project-root/
 
 
 2. **Initialize Node project and install dependencies**
-
 ```bash
 npm init -y
 npm install express body-parser
